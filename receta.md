@@ -3,7 +3,7 @@
 ## Ingredientes
 - Limones: 4
 - Agua: 1 litro
-- Azucar: 4 cucharadas
+- Azucar: 6 cucharadas
 
 ## Pasos
 - Exprimir los limones.
